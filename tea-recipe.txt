@@ -1,0 +1,11 @@
+Ingredients:
+ - glass
+ - tea
+ - boiled water
+ - (optionally) sugar/lemon/milk
+
+Directions:
+ 1. Put the tea into the glass.
+ 2. Put the water inside.
+ 3. Wait 3 minutes.
+ 4. Add optional ingredients as you wish.
